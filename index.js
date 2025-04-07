@@ -17,5 +17,6 @@ function Home() {
         <><div>Home</div><button onclick={addItems}/></>
     )
 }
+/* otro comentario */
 /* Hola Mundo */
 export default Home
