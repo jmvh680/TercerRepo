@@ -2,7 +2,11 @@ import React from 'react'
 
 function Home() {
     const listItems = [1,2,3,4]
+/*
 
+ESTE ES EL NUEVO TEXTO
+
+*/
     const addItems = () => {
         const variableA = 1;
         const variableB = 2;
