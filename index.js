@@ -1,9 +1,10 @@
 import React from 'react'
 
 function Home() {
-    const listItems = [1,2,3,4]
+    const listItems = [1,2,3,4,5,6,7,8,9,10,11]
 
-*/
+/* se corrigio este comentario*/
+
     const addItems = () => {
         const variableA = 1;
         const variableB = 2;
